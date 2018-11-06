@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "name": "Crawdad",
+            "description": "It's actually a \"crayfish\"",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/crawdad.jpg",
+            "price": 4.50
+        },
+        {
+            "name": "Gorilla",
+            "description": "Gives a friendly wave.",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/gorilla.jpg",
+            "price": 8.50
+        },
+        {
+            "name": "Ninja",
+            "description": "Hero in a half shell.",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/ninja.jpg",
+            "price": 12.50
+        },
+        {
+            "name": "Psion",
+            "description": "Computing Classic.",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/psion.jpg",
+            "price": 110.00
+        },
+        {
+            "name": "Totem",
+            "description": "Mysterious and wooden.",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/totem.jpg",
+            "price": 150.00
+        }
+    ]
+}
